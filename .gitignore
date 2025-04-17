@@ -1,6 +1,6 @@
 .DS_STORE
 /build/
-.idea/
-.gradle
+/.idea/
+/.gradle/
 bin/main/application.properties
-gradlew
+
