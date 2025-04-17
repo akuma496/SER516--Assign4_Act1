@@ -40,7 +40,7 @@ jobs:
     - name: Run Tests
       run: ./gradlew testFast
       
-  build:
+  checkstyle:
 
     runs-on: ubuntu-latest
     permissions:
